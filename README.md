@@ -59,7 +59,7 @@ Coming soon......
 
 visit http://47.108.105.120:9090, then login with your user name and password
 
-search your address，You will see your hash in pool and balance 
+search your address，You will see your hashrate and balance  in pool 
 
 
 
